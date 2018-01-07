@@ -1,4 +1,4 @@
-package create.danli;
+package create.singleton;
 
 /**
  * Created by HBooo on 2018/1/7 0007.
