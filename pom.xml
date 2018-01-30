@@ -50,6 +50,7 @@
     </properties>
     <modules>
         <module>abstract-document</module>
+        <module>abstract-factory</module>
     </modules>
 
     <dependencies>
