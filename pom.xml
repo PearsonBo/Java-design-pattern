@@ -51,6 +51,8 @@
     <modules>
         <module>abstract-document</module>
         <module>abstract-factory</module>
+        <module>adapter</module>
+        <module>async-method-invocation</module>
     </modules>
 
     <dependencies>
