@@ -53,6 +53,12 @@
         <module>abstract-factory</module>
         <module>adapter</module>
         <module>async-method-invocation</module>
+        <module>balking</module>
+        <module>bridge</module>
+        <module>builder</module>
+        <module>business-delegate</module>
+        <module>callback</module>
+        <module>chain</module>
     </modules>
 
     <dependencies>
